@@ -1,3 +1,7 @@
 .thumb-wrapper {
 	position:relative;
 }
+.thumb-wrapper img{
+	width:100%;
+	height:auto;	
+}
