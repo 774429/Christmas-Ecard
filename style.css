@@ -1,19 +1,18 @@
-.thumb-wrapper {
-	position:relative;
+.mainRunner {
+  border: 1px solid #000;
+  position: relative;
 }
-.thumb-wrapper img{
-	width:100%;
-	height:auto;	
+
+.img1 {
+  border: 1px solid #f00;
+  position: relative;
+  z-index: 2;
 }
-.thumb-wrapper span {
-	position:absolute;
-	top: 0;
-	bottom:0;
-	left: 0;
-	right:0;
-	width: 100%;
-	height: 100%;
-	z-index: 100;
-	background: transparent url(img/snow.gif) no-repeat;
-	background-position:center;
+
+.img2 {
+  border: 1px solid #0f0;
+  position: relative;
+  z-index: 1;
+  top: -12px;
+  left: 12px;
 }
