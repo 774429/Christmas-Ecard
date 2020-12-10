@@ -12,9 +12,9 @@
 .img2 {
   border: 1px solid #0f0;
   position: relative;
-  z-index: 2;
+  z-index: -2;
   top: 120px;
   left: 12px;
-  width:5000px;
-  height:5000px;
+  width:50000px;
+  height:50000px;
 }
