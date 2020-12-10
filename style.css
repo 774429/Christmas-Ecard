@@ -6,13 +6,15 @@
 .img1 {
   border: 1px solid #f00;
   position: relative;
-  z-index: 2;
+  z-index: 1;
 }
 
 .img2 {
   border: 1px solid #0f0;
   position: relative;
-  z-index: 1;
+  z-index: 2;
   top: -12px;
   left: 12px;
+  width:500px;
+  height:500px;
 }
