@@ -2,7 +2,8 @@
   border: 1px solid #000;
   position: relative;
 }
-
+body{
+  background-image: url("paper.gif");}
 .img1 {
   border: 1px solid #f00;
   position: relative;
