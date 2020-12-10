@@ -1,6 +1,8 @@
 
 body{
   background-image: url("https://774429.github.io/Christmas-Ecard/nativity.gif");
-background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-color: #cccccc;
 }
 
